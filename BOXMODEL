@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOX MODEL</title>
+</head>
+<body>
+    <div class="BOXMODEL">
+        <h1>SIG-WEB</h1>
+        <p>hello sig web, task 2 </p>
+    </div>
+    <div class="BOXMODEL">
+        <h1>TASK2</h1>
+        <p>BOX model includes margin , border, padding , content </p>
+    </div>
+</body>
+</html>
+<style>
+    .BOXMODEL{
+     background-color: rgb(0, 222, 118);
+     padding:2px;
+     margin:30px;
+     border:10px solid rgb(0, 0, 0);
+    }
+</style>
